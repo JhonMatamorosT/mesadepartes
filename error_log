@@ -1,0 +1,7 @@
+[03-Nov-2024 15:27:20 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/iestpmglnet/mesadepartes.iestpmgl.net.pe/index.php on line 71
+[03-Nov-2024 15:27:28 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/iestpmglnet/mesadepartes.iestpmgl.net.pe/index.php on line 71
+[03-Nov-2024 15:28:25 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/iestpmglnet/mesadepartes.iestpmgl.net.pe/index.php on line 71
+[03-Nov-2024 15:29:46 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/iestpmglnet/mesadepartes.iestpmgl.net.pe/index.php on line 71
+[03-Nov-2024 15:33:15 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/iestpmglnet/mesadepartes.iestpmgl.net.pe/index.php on line 71
+[03-Nov-2024 15:33:15 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/iestpmglnet/mesadepartes.iestpmgl.net.pe/index.php on line 71
+[03-Nov-2024 15:33:35 America/Lima] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/iestpmglnet/mesadepartes.iestpmgl.net.pe/index.php on line 71
